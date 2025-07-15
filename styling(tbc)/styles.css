@@ -1,0 +1,47 @@
+html{
+    margin: 0;
+    padding: 0 20px;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-style: normal;
+    background-image: url(background_web.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #f5f5dc;
+}
+#first,#second{
+    text-align: center;
+    font-style: normal;
+}
+
+img{
+    height: 160px;
+    width: 160px;
+}
+section{
+    font-weight: normal;
+    height: 460px;
+    width: 460px;
+}
+#cipher{
+    margin: 0%;
+    border-width: 10px 20px;
+}
+#passgen{
+    margin: 0px;
+    border-width: 10px 20px;
+}
+#hangman{
+    margin: 0px;
+    border-width: 10px 20px;
+}
+#words, #link{
+    color: white;
+}
+#contact, #about{
+    text-align: center;
+}
